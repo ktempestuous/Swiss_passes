@@ -1,6 +1,6 @@
 # Passes 
 
-Scraping information on Swiss Alpine passes and their cycling routes from quaeldich.de.html, presenting them in an interactive map. 
+Scraping information on Swiss Alpine passes and their cycling routes from quaeldich.de.html, presenting them in an interactive map. (https://rawcdn.githack.com/ktempestuous/Swiss_passes/refs/heads/main/passes/bike_routes_map.html)
 
 ## Contents 
 0. Motivation
